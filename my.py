@@ -13,3 +13,5 @@ print("4","5", "6" ,sep="-")
 print(a)
 a +=1
 print (a)
+
+print((2**5 + 10) * 3 - 15)
